@@ -14,6 +14,3 @@ It allows users to manage tasks with basic operations like **adding**, **viewing
 - Simple text-based menu interface
 
 ---
-
-## 📂 Project Structure
-
